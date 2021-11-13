@@ -1,0 +1,19 @@
+.block2 {
+    text-align: center;
+    border: dotted;
+    width: 60%;
+    background: rgb(255, 0, 255);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+table {
+    font-size: 18px;
+    color: #d60000ce;
+}

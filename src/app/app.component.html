@@ -1,0 +1,9 @@
+
+<h1> TODO APP </h1>
+<br>
+<div class="center">
+  <input id = "input" class="hidden" matInput placeholder="Enter Task" name="input" #input>
+  <button class ="hidden" id = "button" mat-raised-button (click) = "submit(input.value)">ADD TASK</button>
+</div>
+<app-todo-list></app-todo-list>
+<app-todo-details></app-todo-details>

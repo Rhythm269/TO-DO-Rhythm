@@ -1,0 +1,30 @@
+h1 {
+    padding-top: 20px;
+    font-size: 2.5em;
+    font-weight: bold;
+    text-align: center;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+input {
+    font-family: 'Merriweather', serif;
+    border: 1px solid rgba(73, 101, 241, 0.897);
+    border-radius: 4px;
+    box-sizing: border-box;
+    background: rgb(229, 255, 0);
+    display: inline-block;
+    font-size: 16px;
+    margin: 5px 0;
+    padding: 10px 20px;
+    width: 50%;
+    margin-right: 20px;
+}
+
+body {
+    background-color: rgb(227, 11, 255);
+}
